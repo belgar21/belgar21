@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on Biotechnology
 - 🌱 Learning Computer Science and Python
 - 📫 How to reach me: felipe-belmonte@outlook.com
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: sou formado em Biomedicina com duas pós graduação, porém com 25 anos estou migrando para a área de tecnologia 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I have a degree in Biomedicine with two postgraduate degrees, but at the age of 25 I am migrating to the technology area
 
 ![belgar21 Github stats](https://github-readme-stats.vercel.app/api?username=belgar21&theme=slateorange&show_icons=true)
 
