@@ -1,17 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Felipe Garcia 👋
 
-- 🔭 I’m currently working on Biotechnology
-- 🌱 Learning Computer Science and Python
-- 📫 How to reach me: felipe-belmonte@outlook.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a degree in Biomedicine with two postgraduate degrees, but at the age of 25 I am migrating to the technology area
+🧬 **Biotechnology Professional & R&D Analyst** bridging the gap between wet-lab experience and computational biology.
 
-![belgar21 Github stats](https://github-readme-stats.vercel.app/api?username=belgar21&theme=slateorange&show_icons=true)
+### 🔬 About Me
+- 🧪 **Wet Lab Experience:** Immunoassays (LFA, ELISA, IHC), antibody/nanobody selection, and IVD product development.
+- 💻 **Dry Lab Focus:** Transitioning into Immunoinformatics and Structural Bioinformatics (Epitope Prediction, Protein Modeling & Docking).
+- 🐍 **Technical Learning:** Python, R, Bash/Linux, Git & Data Analysis.
 
-## Technologies I'm studying
+### 🛠️ Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div style="display: inline_block"><br/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
+### 📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-garcia-biotech)
+- 📧 [felipe-belmonte@outlook.com](mailto:felipe-belmonte@outlook.com)
